@@ -15,4 +15,8 @@
       </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <AdditionalFiles Include="Views\Students\Add.cshtml" />
+    </ItemGroup>
+
 </Project>
